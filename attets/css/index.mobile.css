@@ -1,10 +1,10 @@
 @chatset "UTF-8"
 
 .box {
-    max-width: 90%;
-    margin: 25px auto;
+  max-width: 90%;
+  margin: 25px auto;
 }
 
 code {
-    color: rgb(0, 153, 255);
+  color: rgb(0, 153, 255);
 }
